@@ -1,7 +1,5 @@
 # Take-Home Assignment — Product-Minded Software Engineer
 
-> Estimated time: ~6 hours over the week. We care more about how you think than how much you ship. A smaller, thoughtful submission with clear reasoning will beat a larger one without.
-
 ## Context
 
 We're building an internal **Employee Directory & Lifecycle** service for HR teams.
